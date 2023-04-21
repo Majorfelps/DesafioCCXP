@@ -6,7 +6,7 @@ nav{
 }
 
 nav div{
-    margin: 27px 58px 27px;
+    margin: 3rem 4rem 3rem;
 }
 
 .logo{
@@ -21,26 +21,24 @@ nav div{
     background-color: #514988;
     text-align: center;
     width: 50%;
-    height: 650px;
-    left: 0px;
-    top: 118px;
+    height: 41rem;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .titulo{
     color: #FFD900;
-    font-size: 70px;
-    padding-top: 30px;
+    font-size: 5rem;
+    padding-top: 2rem;
 }
 .subTitulo{
     color: #FFFFFF;
-    font-size: 35px;
+    font-size: 3rem;
 }
 .paragrafo{
-    font-size: 25px;
+    font-size: 2rem;
     display: flex;
     align-items: center;
     text-align: center;
-    margin: 50px 60px;
+    margin: 4rem 5rem;
     color: #FFFFFF;
 }
 
@@ -55,28 +53,28 @@ nav div{
     display: grid;
     grid-auto-flow: column;
     font-weight: 700;
-    font-size: 70px;
-    line-height: 85px;
+    font-size: 4rem;
     align-items: center;
     text-align: center;
     color: #514988;
-    margin-left: 30px;
+    margin-left: 3rem;
 }
 section div h2{
-    font-weight: 700;
-    font-size: 30px;
+
+    font-size: 2.3rem;
     align-items: center;
     text-align: center;
     color: #E33881;
-    margin-left: 40px;
+    margin-left: 4rem;
 }
 
 .video{
-    padding-left: 10px;
+    padding-left: 1rem;
     align-items: center;
-
 }
-
+.video1{
+    width: 60rem;
+}
 .sec2{
     display: flex;
 }
@@ -87,14 +85,15 @@ section div h2{
     
 }
 .tituloIngresso{
-    font-size: 27px;
+    font-size: 2.5rem;
+    font-weight: 700;
     align-items: center;
     text-align: center;
     color: #F3C61F;
 }
 .secButton{
     width: 50%;
-    margin-left: -80px;
+    margin-left: -4rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -104,9 +103,9 @@ section div h2{
     text-align: center;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 32px;
+    font-size: 3rem;
     background-color: #514988;
-    border-radius: 20px;
+    border-radius: 2rem;
     width: 42rem;
     height: 10rem;
 }
