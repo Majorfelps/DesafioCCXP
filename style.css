@@ -1,5 +1,104 @@
 
 
+nav{
+    display: flex;
+    background-color: #FFD900;
+}
+
+nav div{
+    margin: 27px 58px 27px;
+}
+
+.logo{
+    width: 100%;
+}
+
+.sec1{
+    display: flex;
+}
+
+.sec1Texto{
+    background-color: #514988;
+    text-align: center;
+    width: 50%;
+    height: 650px;
+    left: 0px;
+    top: 118px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo{
+    color: #FFD900;
+    font-size: 70px;
+    padding-top: 30px;
+}
+.subTitulo{
+    color: #FFFFFF;
+    font-size: 35px;
+}
+.paragrafo{
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: 50px 60px;
+    color: #FFFFFF;
+}
+
+
+.sec1Video{
+    display: grid;
+    grid-auto-flow: row;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.countdown{
+    display: grid;
+    grid-auto-flow: column;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 85px;
+    align-items: center;
+    text-align: center;
+    color: #514988;
+    margin-left: 30px;
+}
+section div h2{
+    font-weight: 700;
+    font-size: 30px;
+    align-items: center;
+    text-align: center;
+    color: #E33881;
+    margin-left: 40px;
+}
+
+.video{
+    padding-left: 10px;
+    align-items: center;
+
+}
+
+.sec2{
+    display: flex;
+}
+.secIngresso{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 50%;
+    
+}
+.tituloIngresso{
+    font-size: 27px;
+    align-items: center;
+    text-align: center;
+    color: #F3C61F;
+}
+.secButton{
+    width: 50%;
+    margin-left: -80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .button{
     text-align: center;
@@ -8,11 +107,8 @@
     font-size: 32px;
     background-color: #514988;
     border-radius: 20px;
-    width: 32rem;
+    width: 42rem;
     height: 10rem;
-    
-
-
 }
 
 
